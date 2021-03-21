@@ -1,5 +1,5 @@
 # Bus-Tracker
-This was my class project working with www.mapbox.com and new.mta.info/developers to collect data and create a live map of the bus routes between Mit and Harvard campus. I created function that moved the buses between the different  locations on the map. 
+This was my class project working with www.mapbox.com and https://new.mta.info/developers to collect data and create a live map of the bus routes between Mit and Harvard campus. I created function that moved the buses between the different  locations on the map. 
 
 ## How to get started 
 - Clone files: index.html, eyes.js, and styles.css 

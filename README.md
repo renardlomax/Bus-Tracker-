@@ -4,7 +4,7 @@ I worked with www.mapbox.com and https://new.mta.info/developers to collect data
 ## How To Run
 Clone/download the following files:
 - index.html
-- eyes.js
+- mapanimation.js
 - styles.css 
 
 Create an access token at Mapbox.com (i.e. mapboxgl.accessToken = 'your token';).
